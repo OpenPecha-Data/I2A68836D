@@ -5,11 +5,12 @@ source_metadata:
   title: བོད་ཀྱི་དགོན་སྡེའི་རིག་གནས་སྤྱི་བཤད་མེ་ཏོག་ཕྲེང་བ
   author: ''
   volumes:
-    ba0bd0029a4b4abd9a7b1c1444194bd9:
+    f9779cb445494324b8784cd7197d8065:
       image_group_id: I1CZ910
-      title: ''
+      title: Volume 1 of bod kyi dgon sde'i rig gnas spyi bshad me tog phreng ba
       volume_number: 1
       total_pages: 183
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་དགོན་སྡེའི་རིག་གནས་སྤྱི་བཤད་མེ་ཏོག་ཕྲེང་བ
   author: ''
