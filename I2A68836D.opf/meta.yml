@@ -1,0 +1,27 @@
+id: I2A68836D
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-29T21:36:22+00:00'
+last_modified: '2022-06-08T13:13:13.659282+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W00KG01063
+  title: བོད་ཀྱི་དགོན་སྡེའི་རིག་གནས་སྤྱི་བཤད་མེ་ཏོག་ཕྲེང་བ
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  base:
+    F275:
+      image_group_id: I1CZ910
+      title: Volume 1 of bod kyi dgon sde'i rig gnas spyi bshad me tog phreng ba
+      total_pages: 183
+      order: 1
+      base_file: F275.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
